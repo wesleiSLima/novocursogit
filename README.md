@@ -1,8 +1,18 @@
-1. Título: VoeAirlines - FrontEnd
-2. Descrição: Uma empresa de aeronaves
-3. Funcionalidades: Cadastro de Aeronaves
-4. Tecnologias: html,javascript,bootstrap,node,react
-5. Como iniciar: git clone, vs code, exteńções
-6. Implementações futuras
-7. Colaboradores
-8. Status
+<h1>1. Título: VoeAirlines - FrontEnd</h1>
+>Descrição: Uma empresa de aeronaves
+> Diversas funcionalidades desde cadastro de Aeronaves até geração de relatórios
+>Recomendável instalação do VS Code
+'''
+https://code.visualstudio.com/
+'''
+> Aconselhável a utilização da extensão
+'''
+Live Server
+'''
+ou
+'''
+Live Preview
+'''
+>Para iniciar o projeto use
+'''
+git clone git@github.com:wesleiSLima/novocursogit.git
